@@ -9,7 +9,7 @@ I am a full-stack web developer that you need on your team! I followed my dreams
 
 <iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV">via GIPHY</a></p>
 
-<p  align="center"><img src=<iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV">via GIPHY</a></p> alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">via GIPHY</a></p> alt="Coder GIF" width="500" height="400">
 
 ### Summary👋
 - 🔭 I’m currently working on polishing projects.
