@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**smalone9/smalone9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-samanthamalone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samantha-malone-10713467/)](https://www.linkedin.com/in/samantha-malone-10713467/)
+[![Gmail Badge](https://img.shields.io/badge/-sammac99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammac99@gmail.com)](mailto:sammac99@gmail.com)
+---
 
-Here are some ideas to get you started:
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+I am a full-stack web developer that you need on your team! I followed my dreams and completed coding bootcamp after teaching public school for ten years. My passion and drive set me apart from others in the field. I am flexible, organzied, dedicated, and always in pursuit of education. I am able to trobleshoot, succeed at given tasks, and meet deadlines. My background as a dance teacher offers a creative and technical approach to web development and making your website stand out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
+### Summary👋
+- 🔭 I’m currently working on polishing projects.
+- 👯 I’m looking to build your next website or collaborate to make the next best app.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-malone-10713467/) , [Email](mailto:sammac99@gmail.com)
