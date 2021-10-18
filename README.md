@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Samantha Malone 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-samanthamalone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samantha-malone-10713467/)](https://www.linkedin.com/in/samantha-malone-10713467/)
 [![Gmail Badge](https://img.shields.io/badge/-sammac99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammac99@gmail.com)](mailto:sammac99@gmail.com)
@@ -8,8 +8,6 @@
 I am a full-stack web developer that you need on your team! I followed my dreams and completed coding bootcamp after teaching public school for ten years. My passion and drive set me apart from others in the field. I am flexible, organzied, dedicated, and always in pursuit of education. I am able to trobleshoot, succeed at given tasks, and meet deadlines. My background as a dance teacher offers a creative and technical approach to web development and making your website stand out!
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
 
 ### Summary👋
 - 🔭 I’m currently working on polishing projects.
