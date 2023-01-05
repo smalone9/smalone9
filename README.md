@@ -5,7 +5,7 @@
 ---
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I am a full-stack web developer that loves my tribe at [House Trevethan](https://www.(https://housetrevethan.com/) ! I followed my dreams and completed coding bootcamp after teaching public school for ten years. My passion and drive set me apart from others in the field. I am flexible, organzied, dedicated, and always in pursuit of education. I am able to trobleshoot, succeed at given tasks, and meet deadlines. My background as a dance teacher offers a creative and technical approach to web development and making any website stand out!
+I am a full-stack web developer that loves my tribe at [House Trevethan](https://www.housetrevethan.com) ! I followed my dreams and completed coding bootcamp after teaching public school for ten years. My passion and drive set me apart from others in the field. I am flexible, organzied, dedicated, and always in pursuit of education. I am able to trobleshoot, succeed at given tasks, and meet deadlines. My background as a dance teacher offers a creative and technical approach to web development and making any website stand out!
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">via GIPHY</a></p> alt="Coder GIF" width="500" height="400">
 
