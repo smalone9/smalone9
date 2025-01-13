@@ -1,6 +1,6 @@
 ### About Samantha MacKenzie 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-samanthamalone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samantha-malone-10713467/)](https://www.linkedin.com/in/samantha-malone-10713467/)
+[![Linkedin Badge](https://img.shields.io/badge/-samanthamalone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samantha-mackenzie-10713467/)](https://www.linkedin.com/in/samantha-mackenzie-10713467/)
 [![Gmail Badge](https://img.shields.io/badge/-sammac99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammac99@gmail.com)](mailto:sammac99@gmail.com)
 ---
 
