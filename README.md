@@ -12,7 +12,7 @@ I am a full-stack web developer that loves creating & maintaining websites! I fo
 ### Summary👋
 - 🔭 I’m currently working on polishing projects.
 - 👯 I’m looking to build your next website or collaborate to make the next best app.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-malone-10713467/) , [Email](mailto:sammac99@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-mackenzie-10713467/) , [Email](mailto:sammac99@gmail.com)
 
 <img height="120" alt="Thanks for Your Interest!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
